@@ -1,0 +1,4 @@
+apple: A fruit that is typically red, green, or yellow.
+banana: A long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe.
+cat: A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.
+dog: A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice.
