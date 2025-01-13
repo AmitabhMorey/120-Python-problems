@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>MZ Batch Python Programming Problems</title>
-<style>
-body {
-    font-family: sans-serif;
-    margin: 20px;
-}
-h1, h2, h3 {
-    color: #333;
-}
-ul {
-    list-style-type: disc;
-    padding-left: 20px;
-}
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-}
-</style>
-</head>
-<body>
-
 <h1>MZ Batch Python Programming Problems</h1>
 
 <p>This repository contains a diverse set of 120 Python programming problems designed to strengthen your skills, ranging from basic syntax and data types to more advanced concepts like object-oriented programming, algorithmic challenges, and more.</p>
